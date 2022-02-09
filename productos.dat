@@ -1,0 +1,35 @@
+[
+	{
+		"nombre": "Iz*One - Act IV: One-reeler",
+		"precio": "1232",
+		"stock": "323",
+		"referencia": "https://www.youtube.com/watch?v=64hndxW-pJw",
+		"foto": "https://0.soompi.io/wp-content/uploads/2020/11/06071620/IZONE-22.jpg",
+		"descripcion": "Hjhgkjhadsgf jadshkjd kldasjlkdaskl kldasjladsjld lk",
+		"descripcionCorta": " adasdadsd jkladjhlasjddp9 apd; ak;l",
+		"envio": true,
+		"id": "1"
+	},
+	{
+		"nombre": "DC SH",
+		"precio": "3213",
+		"stock": "31233",
+		"referencia": "https://www.youtube.com/watch?v=PEKkdIT8JPM",
+		"foto": "https://1.bp.blogspot.com/-WGWlqikpOaE/YQBKwLbHrvI/AAAAAAAAT-M/ZSB5HLKDDow78xKhdFxLM9ME9hlSA5XPwCLcBGAsYHQ/s744/Dreamcatcher-Summer-Holiday.jpg",
+		"descripcion": "ADASDSADAD DSA ASASDASDASDSA DASD ASD D ASD ASDSAD DSA ASD ",
+		"descripcionCorta": "ASD ASD ASD A DASD ASD AS DASDAS ASD ",
+		"envio": true,
+		"id": "2"
+	},
+	{
+		"nombre": "ASASDASDASD ASDASDSAADS ASD ASD ",
+		"precio": "321",
+		"stock": "3213",
+		"referencia": "https://www.youtube.com/watch?v=PEKkdIT8JPM",
+		"foto": "https://pbs.twimg.com/media/EcT-rUkXsAIg6ov.jpg",
+		"descripcion": "daaddasasd asdas asdds asasdadasdas dasd das asd ",
+		"descripcionCorta": "ads asdsaadsads as dasads as dasads ",
+		"envio": false,
+		"id": "3"
+	}
+]

@@ -1,0 +1,62 @@
+.section-contact {
+    background-color: #010400;
+    padding: 1em;
+    overflow-x: hidden;
+
+
+    &__header {
+        color: #62BBC1;
+        margin: 5px;
+    }
+
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    display: block;
+    color: #62BBC1 ;
+    font-size: 20px;
+    border-radius: 10px;
+    
+    &__body {
+        display: flex;
+        flex-wrap: wrap;
+        border-radius: 20px;
+        background-color: #30332E;
+        margin: .5em 4em;
+    } 
+
+    &__info {
+
+        line-height: 50px;
+        margin-top: 20px;
+    }
+
+
+
+    &__flex {
+        display: flex;
+    }
+
+    &__flex > p {
+        margin-left: 10px;
+    }
+
+    &__flex > img {
+        margin: 10px 0px 10px 15px
+    }
+
+    &__mail {
+        padding: 30px;
+        align-self: center;
+        text-align: center;
+    }
+}
+
+
+
+

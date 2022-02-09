@@ -1,0 +1,38 @@
+.section-cards {
+    background-color: #010400;
+    padding: 1em;
+
+    &__header {
+        color: #62BBC1;
+        margin: 5px;
+    }
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+    justify-content: center;
+    background-color: #30332E;
+    padding: 10px;
+    border-radius: 10px;
+
+    @media (min-width: 1200px) {
+        & {
+            gap: 2em;
+        }
+    }
+    
+}
+
+.section-footer {
+    margin-top: 30px;
+    padding: 1em;
+    background-color: #30332E;
+    color: #62BBC1;
+}
+
+.section-footer-legal {
+    text-align: center;
+    color: whitesmoke;
+}
